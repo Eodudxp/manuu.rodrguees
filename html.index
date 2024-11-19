@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-witdh" , initial-scale="1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Confeitaria La Delicie</title>
+</head>
+
+
+<body>
+    <header>Doces Tipicos</header>
+    <section>
+        <div>
+            <h1>Susgestões de Doces</h1>
+            <h2> Paraná</h2>
+            <p>Brigadeiro</p>
+        </div>
+        <div>
+           AQUI VAI UM VÍDEO
+        </div>
+    </section>
+
+
+</body>
+</html>
